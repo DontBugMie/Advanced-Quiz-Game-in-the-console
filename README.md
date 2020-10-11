@@ -15,3 +15,9 @@ To Play:
 5. To exit the game write 'exit' in the prompt window
 
 6. (if you press cancel you get a minus point!)
+
+SEE HOW MANY POINTS YOU CAN SCORE! 
+
+HAPPY QUIZZING!!!
+
+:)
