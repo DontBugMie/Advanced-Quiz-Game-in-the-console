@@ -1,6 +1,9 @@
 # Advanced-Quiz-Game-in-the-console
 Quiz Game in the console
 
+QUIZ GAME BUILT WITH OBJECT ORIENTED PROGRAMMING
+BUILT USING HTML AND JAVASCRIPT
+
 
 To Play:
 
